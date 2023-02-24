@@ -1,2 +1,5 @@
-# CSDS-281
-Repository for CSDS 281 (Logic Design) for Case Western Reserve University
+# CSDS 281
+## Author: Rohan Singh
+Repository for CSDS 281 (Logic Design) for Case Western Reserve University.
+
+System Verilog!!!!!
