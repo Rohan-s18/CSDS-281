@@ -9,7 +9,7 @@ module alu_slice (
     assign b_inv = b ^ f[0];
     assign c = c_in & f[1];
 
-    rc_adder_slice U1 (a, b, c, s, c_out);
+    rc_adder_slice U1 (a, b_inv, c, s, c_out);
 
 endmodule
 
